@@ -4,9 +4,9 @@
 <suite name="AllTestsSuite">
     <test name="Proiect testare">
         <classes>
-            <class name="TestLogin"/>
-            <class name="SearchTest"/>
-            <class name="AddToCartTest"/>
+            <class name="UseCaseTesting.TestLogin"/>
+            <class name="UseCaseTesting.SearchTest"/>
+            <class name="UseCaseTesting.AddToCartTest"/>
         </classes>
     </test>
 </suite>
